@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Santiago Arredondo</h1>
+<h3 align="center">Ingeniero de Software | Backend Developer | Mentor</h3>
 
-<!--
-**Santiago-Arredondo/Santiago-Arredondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Apasionado por el desarrollo de software, las bases de datos y la construcción de soluciones tecnológicas que generen impacto real.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago-arredondo-vergara-a7b3481b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Arredondo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+🎓 Ingeniero de Software graduado
+
+👨‍🏫 Mentor en EAFIT y con experiencia en formación de estudiantes en desarrollo de software
+
+💻 Desarrollador enfocado en tecnologías backend y soluciones empresariales
+
+🔧 Experiencia en integraciones de sistemas, APIs REST y desarrollo de aplicaciones de negocio
+
+🗄️ Interés especial en bases de datos, arquitectura de software y buenas prácticas de desarrollo
+
+🤖 Explorando continuamente Inteligencia Artificial aplicada al desarrollo de software
+
+---
+
+## ⚡ Stack Tecnológico
+
+### 💙 Lenguajes
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### 🔗 Backend & Desarrollo
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+
+### 🗄️ Bases de Datos
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🛠️ Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🌱 Actualmente
+
+- Construyendo proyectos para fortalecer mi portafolio profesional.
+- Profundizando en arquitectura de software y patrones de diseño.
+- Explorando aplicaciones prácticas de Inteligencia Artificial.
+- Aprendiendo nuevas tecnologías y mejores prácticas para el desarrollo moderno.
+
+---
+
+## 🎯 Intereses
+
+- Desarrollo Backend
+- Arquitectura de Software
+- Bases de Datos
+- Inteligencia Artificial
+- Integración de Sistemas
+- Automatización de Procesos
+- Desarrollo de Soluciones Empresariales
+
+---
+
+## 🌎 Idiomas
+
+- 🇪🇸 Español: Nativo
+- 🇺🇸 Inglés: Intermedio (B2)
+
+## 📫 Contacto
+
+💼 LinkedIn:  
+👉 https://www.linkedin.com/in/santiago-arredondo-vergara-a7b3481b2
+
+---
+
+<p align="center">
+  <i>"Primero haz que funcione, después haz que funcione bien y finalmente haz que sea mantenible."</i>
+</p>
