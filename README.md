@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mí
 
-🎓 Ingeniero de Software graduado
+🎓 Ingeniero de Software
 
 👨‍🏫 Mentor en EAFIT y con experiencia en formación de estudiantes en desarrollo de software
 
