@@ -84,6 +84,12 @@
 - 🇪🇸 Español: Nativo
 - 🇺🇸 Inglés: Intermedio (B2)
 
+##⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 📫 Contacto
 
 💼 LinkedIn:  
