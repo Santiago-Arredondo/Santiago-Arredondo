@@ -86,9 +86,9 @@
 
 ##⚡ Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT\_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT\_ACTIVITY:last\_update-->
 
 ## 📫 Contacto
 
